@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/mide-etan">Richland</a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/mide-etan">mide-etan</a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 
 <!--
 **mide-etan/mide-etan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
